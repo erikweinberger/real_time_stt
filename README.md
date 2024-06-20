@@ -6,8 +6,10 @@ Set up:
 Clone repository
 git clone <link>
 
-set up virtual enviroment use python 3.9 (3.12 not supported)\\
+set up virtual enviroment use python 3.9 (3.12 not supported)
+
 python3.9 -m venv <$PATH>
+
 source <$PATH>/bin/activate
 
 pip install -r requierments.txt
